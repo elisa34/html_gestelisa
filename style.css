@@ -1,5 +1,16 @@
 .conteneur {
     display: flex;
+  }
+
+.hello {
     background-color: blue;
+  }
+
+.hella {
+    background-color: rgb(162, 255, 0);
+  }
+
+.helli {
+    background-color: rgb(255, 0, 132);
   }
 
