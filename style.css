@@ -1,3 +1,5 @@
-background-color: red;
-background-color: indigo;
-background-color: green; 
+.conteneur {
+    display: flex;
+    background-color: blue;
+  }
+
