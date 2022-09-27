@@ -1,0 +1,73 @@
+1: <div id="dungeon" class="flex >
+    justify-end
+</div>
+
+2: <div id="dungeon" class="flex >
+    justify-center
+</div>
+
+3: <div id="dungeon" class="flex >
+    justify-around
+</div>
+
+4: <div id="dungeon" class="flex >
+    justify-between
+</div>
+
+5: <div id="dungeon" class="flex >
+    items-center
+</div>
+
+6: <div id="dungeon" class="flex >
+    justify-around items-center
+</div>
+
+7: <div id="dungeon" class="flex >
+    justify-around items-end
+</div>
+
+8: <div id="dungeon" class="flex >
+    flex-row-reverse
+</div>
+
+9: <div id="dungeon" class="flex >
+    flex-col
+</div>
+
+10: <div id="dungeon" class="flex >
+    justify-center items-end flex-col-reverse
+</div>
+
+
+11: <div class="yellow-knight 
+    order-last
+</div>
+
+12: <div class="red-knight 
+    order-first
+</div>
+
+13: <div class="yellow-knight 
+    self-center items-start
+</div>
+
+14: <div class="red-knight 
+    order-last self-end
+</div>
+
+15: <div id="dungeon" class="flex >
+    flex-wrap
+</div>
+
+16: <div id="dungeon" class="flex >
+    flex-wrap-reverse justify-end
+</div>
+
+17: <div id="dungeon" class="flex >
+    content-between
+</div>
+
+18: <div id="dungeon" class="flex >
+    justify-center flex-wrap-reverse content-center
+</div>
+
